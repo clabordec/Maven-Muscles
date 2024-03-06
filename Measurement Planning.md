@@ -99,5 +99,20 @@ Build a detailed measurement plan for the VP who runs the call center. She repor
 
   <br>
 
-  ## 3. Define the KPIs
+## 3. Define the KPIs
+  Once you understand the business impact and stakeholder needs, you're ready to start identifying Key Performance Indicators(KPIs) and supporting metrics
+
+<br>
+
+### Key questions to ask:
+   - Which business goals have I already identified?
+   - For each goal, which metrics can be used to accurately measure it?
+   - Which of those are most important for my stakeholders?
+   - Thinking one level deeper, what other supporting metrics might help me optimize or make decisions to improve my KPIs?
+
+<br>
+
+<img width="870" alt="image" src="https://github.com/clabordec/Maven-Muscles/assets/72324462/4942b861-678b-49d2-a8c1-4ccb850fdb95">
+
+     
   
