@@ -114,5 +114,21 @@ Build a detailed measurement plan for the VP who runs the call center. She repor
 
 <img width="870" alt="image" src="https://github.com/clabordec/Maven-Muscles/assets/72324462/4942b861-678b-49d2-a8c1-4ccb850fdb95">
 
-     
-  
+
+<br>
+
+## Identify Data Sources
+After identifying your KPIs and supporting metrics, it's time to think about what data you need, where to source it, and how to prepare it for analysis
+
+<br>
+
+### Key questions to ask:
+   - Which sources provide the data you need to track each metric?
+   - Who owns or manages each data source?
+   - How frequently is each data source refreshed?
+   - Can you automate or streamline the data collection process?
+
+<br>
+
+<img width="790" alt="image" src="https://github.com/clabordec/Maven-Muscles/assets/72324462/4cb5ce67-8d88-44a0-b7ba-a6b4200abb2d">
+
