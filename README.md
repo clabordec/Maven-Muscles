@@ -15,11 +15,13 @@ Build a detailed measurement plan for the VP who runs the call center. She repor
 2. Identify and prioritize Key Performance Indicators and supporting metrics
 3. Make the plan to gather data and address any gaps
 
-<br><br>
+<br>
 
 # Measurment Roadmap
 ## 1. Think Business First
-  - One of the most common putfalls for Analysts is jumping into the data too quickly; before I start thinking like an analyst, I need to think like a business owner first!
+   One of the most common putfalls for Analysts is jumping into the data too quickly; before I start thinking like an analyst, I need to think like a business owner first!
+
+<br>
 
 ### Key questions to ask:
   - What are the key business goals and objectives?
@@ -55,6 +57,47 @@ Build a detailed measurement plan for the VP who runs the call center. She repor
      - Identifying problems
 
 <br>
+<br>
 
 ## 2. Know your audience
-  - 
+  After thinking about the business impact, focus on the key stakeholders next, who are they, what do they need, and how will your analysis support them?
+
+  <br>
+
+### Key questions to ask:
+  - Who is the primary audience you are designing the measurement plan for?
+  - What are their goals and incentives? What do they care most about?
+  - Are there multiple stakeholders who will be impacted by your analysis?
+  - What type of information would inspire them to take action?
+
+
+## Knowing the audience for Maven Muscles
+  1. What is the primary stakeholder most interested in? What are her goals?
+     - Signups
+     - Close Rates
+     - Customer Retention
+     - Customer Satisfaction
+     - Call Center Efficiency
+
+  2. What information should you provide to help her do her job well?
+     - Help monitor the metrics
+     - Highlight areas where she can make impactful changes
+
+  3. What are the COO and CEO most interested in?
+     - Revenue
+     - Profit
+     - High Customer Retention
+     - Customer Satisfaction
+
+  4. What are the call center managers most interested in?
+     - Hitting their signup and customer satisfaction goals
+     - Improving their team
+
+  5. What information do managers need to make their teams more effective
+     - Help them see individual-level performance
+     - Highlight any opportunities for improvement
+
+  <br>
+
+  ## 3. Define the KPIs
+  
