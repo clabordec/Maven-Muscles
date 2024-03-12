@@ -25,7 +25,7 @@ Build a detailed measurement plan for the VP who runs the call center. She repor
 
 ### Key questions to ask:
   - What are the key business goals and objectives?
-  - Where does this analysis fir into the overall business?
+  - Where does this analysis fall into for the overall business?
   - What are the most important questions that stakeholders need answers to?
   - What types of actions do you want them to take after seeing your analysis?
 
