@@ -34,7 +34,7 @@ Build a detailed measurement plan for the VP who runs the call center. She repor
      - Revenue
      - Profit
      - Improve client retention rates
-     - customer satisfaction
+     - Customer satisfaction
     
   2. How does the call center support those business goals?
      - Reducing customer complaints
